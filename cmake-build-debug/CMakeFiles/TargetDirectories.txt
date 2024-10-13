@@ -1,0 +1,3 @@
+C:/Users/my380/Documents/education/3 курс/sysProg/Lab3.2/cmake-build-debug/CMakeFiles/Lab3_2.dir
+C:/Users/my380/Documents/education/3 курс/sysProg/Lab3.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/my380/Documents/education/3 курс/sysProg/Lab3.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
